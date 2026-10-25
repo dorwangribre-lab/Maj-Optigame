@@ -3,14 +3,6 @@
     "maj":  "2026-10-25 22:19",
     "versions":  [
                      {
-                         "nom":  "OptiGame_v3.2.ps1",
-                         "version":  "3.2",
-                         "sha256":  "a0c755d3da02b91fa6edff84600aedcec40b9e27993387967d068b17273e28a7",
-                         "date":  "2026-10-25",
-                         "notes":  "v3 - Grosse mise a jour : 12 jeux optimises (Valorant, LoL, CS2, Minecraft, GTA V, Apex, EA FC en plus). Mises a jour en ligne : l\u0027operateur publie, les autres PC installent ou mettent de cote (verification anti-modification).",
-                         "url":  "https://raw.githubusercontent.com/dorwangribre-lab/Maj-Optigame/main/versions/OptiGame_v3.2.ps1"
-                     },
-                     {
                          "nom":  "OptiGame_v3.1.ps1",
                          "version":  "3.1",
                          "sha256":  "6ae2d5a95a2b88b0aa04956d1540b364d9e9be2a24cbd27ac500de4535143160",
